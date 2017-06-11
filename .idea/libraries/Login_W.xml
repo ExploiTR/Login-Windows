@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Login-W">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Login_W_jar/Login-W.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
