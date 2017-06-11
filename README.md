@@ -3,7 +3,7 @@ Wishnet Login Java Application for Windows/Linux env.
 
 # How to use :
 1. Import project in [IntelliJ Idea](https://www.jetbrains.com/idea/)
-2. Put Username and Password in the code.
+2. Put [Username](https://github.com/mrpratimx/Login-Windows/blob/master/src/main/java/app/windows/exploitr/Login.java) and [Password](https://github.com/mrpratimx/Login-Windows/blob/master/src/main/java/app/windows/exploitr/Login.java) in the code.
 3. Compile/ Generate JAR Artifact.
 
 ### Assuming that Java is installed.
