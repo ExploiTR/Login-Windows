@@ -12,7 +12,7 @@ Wishnet Login Java Application for Windows/Linux env.
 ### Want to automate Login? follow this :
 #### Windows :
 
-1. Generate a JAR Artifact (let's take it as x.jar)  
+1. Generate a JAR Artifact.  
 2. Now move it to `C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 3. ``Done!`` Each time your computer starts, You will get connected to Internet `automatically` without `touching` anything.
 
