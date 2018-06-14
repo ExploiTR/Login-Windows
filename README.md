@@ -20,6 +20,7 @@ Wishnet Login Java Application for Windows/Linux env.
 #### Linux :
 #### `~ Currently I'm not using Linux for my daily work ~`.  
         Please refer to the links below + use your brain :
-1. [`Create a shell script to run a Java program on Linux`](https://stackoverflow.com/a/32804126/6796473)  
-2. [`How to start an application automatically on boot`](https://unix.stackexchange.com/questions/56957/how-to-start-an-application-automatically-on-boot)  
-3. ##### You've to modify the code also because some codes used doesn't work with Linux.
+1. [`Create a shell script to run a Java program on Linux`](https://stackoverflow.com/a/32804126/6796473)    
+2. [`How to start an application automatically on boot`](https://unix.stackexchange.com/questions/56957/how-to-start-an-application-automatically-on-boot)    
+3.##### You've to modify the code also because some codes used doesn't work with Linux.
+
