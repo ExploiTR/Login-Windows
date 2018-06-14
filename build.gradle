@@ -1,7 +1,9 @@
-group 'Login-W'
-version '1.0-SNAPSHOT'
+plugins {
+    id 'java'
+}
 
-apply plugin: 'java'
+group '81020612'
+version '2.0'
 
 sourceCompatibility = 1.8
 
@@ -10,5 +12,9 @@ repositories {
 }
 
 dependencies {
-    compile 'com.squareup.okhttp3:okhttp:3.8.0'
+    compile 'com.squareup.okhttp3:okhttp:3.10.0'
+    compile group: 'org.json', name: 'json', version: '20180130'
+    compile 'commons-io:commons-io:2.6'
+    compile 'com.dorkbox:Notify:3.7'
+    compile group: 'org.jetbrains', name: 'annotations', version: '15.0'
 }
