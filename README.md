@@ -3,12 +3,11 @@ Wishnet Login Java Application for Windows/Linux env.
 
 
 # How to use :
-## Easy Mode :
+### It's a Java Project and the JRE/JDK must be installed to run this app.
+### Easy Mode :
 * Download JAR Artifact or the self-executable from the [releases](https://github.com/ExploiTR/Login-Windows/releases) page. Setup as needed. See below for automation.
-## Advanced Mode :
+### Advanced Mode :
 * You can see this is an open-source project. :-)
-
-### Assuming that Java is installed.
 
 # Automation :
 ### Want to automate Login? follow this :
