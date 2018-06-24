@@ -53,7 +53,7 @@ permission to copy, distribute and/or modify the library.
 there is no warranty for the free library.  Also, if the library is
 modified by someone else and passed on, the recipients should know
 that what they have is not the original version, so that the original
-author's reputation will not be affected by problems that might be
+author's reputation will not be affected by  problems that might be
 introduced by others.
 
   Finally, software patents pose a constant threat to the existence of
